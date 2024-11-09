@@ -24,3 +24,5 @@ cd pyxel_examples
 pyxel run 01_hello_pyxel.py
 pyxel play 30sec_of_daylight.pyxapp
 ```
+
+終了する場合エスケープキーを押せば良い
